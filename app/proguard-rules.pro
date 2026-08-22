@@ -1,0 +1,2 @@
+-keep class com.nexshare.gateway.** { *; }
+-dontwarn org.bouncycastle.**

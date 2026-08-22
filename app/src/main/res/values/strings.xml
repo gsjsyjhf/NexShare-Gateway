@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NexShare</string>
+    <string name="notification_channel">Sharing</string>
+    <string name="notification_title">Internet sharing is active</string>
+    <string name="notification_text">VPN-aware proxy is running</string>
+</resources>
